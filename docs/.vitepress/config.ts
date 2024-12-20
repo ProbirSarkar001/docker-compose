@@ -59,7 +59,7 @@ export default defineConfig({
       }
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/your-username/docker-compose-docs' }
+      { icon: 'github', link: 'https://github.com/ProbirSarkar001/docker-compose' }
     ],
     footer: {
       message: 'Released under the MIT License.',
